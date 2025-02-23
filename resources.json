@@ -60,6 +60,16 @@
     "domains": ["Machine Learning"]
   },
   {
+    "title": ":probabl.",
+    "link": "https://www.youtube.com/channel/UCIat2Cdg661wF5DQDWTQAmg",
+    "authors": [":probabl."],
+    "year": 2024,
+    "image": "probabl.png",
+    "description": "This is the official :probabl. YouTube channel where it features humans teaching and learning about machine learning, data science, and open source. More often than not, we will discuss scikit-learn, as well as a plethora of other tools and libraries to help data scientists, data engineers and data owners extract the most value out of their data.",
+    "kind": "Video",
+    "domains": ["Machine Learning"]
+  },  
+  {
     "title": "The Elements of Statistical Learning, 2nd Edition",
     "link": "https://tinyurl.com/elstatlearning",
     "authors": ["Trevor Hastie", "Robert Tibshirani", "Jerome Friedman"],
