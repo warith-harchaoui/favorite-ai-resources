@@ -75,7 +75,7 @@
     "authors": [":probabl."],
     "year": 2024,
     "image": "probabl.png",
-    "description": "This is the official :probabl. YouTube channel where it features humans teaching and learning about machine learning, data science, and open source. More often than not, we will discuss scikit-learn, as well as a plethora of other tools and libraries to help data scientists, data engineers and data owners extract the most value out of their data.",
+    "description": "This is the official :probabl. YouTube channel where it features humans teaching and learning about machine learning, data science, and open source. It discusses scikit-learn, as well as a plethora of other tools and libraries to help data scientists, data engineers and data owners extract the most value out of their data.",
     "kind": "Video",
     "domains": ["Machine Learning"]
   },  
