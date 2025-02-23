@@ -144,7 +144,7 @@
     "link": "https://tinyurl.com/manning-nlp",
     "authors": ["Chris Manning", "Hinrich Schütze"],
     "year": 1999,
-    "image": "manning.png",
+    "image": "fsnlp.png",
     "description": "This 620 pages book is old but it summarizes very well all the good practices of non-deep Natural Language Processing. It is nicely written and a nice source of inspiration for even non-NLP-related problems especially for pre-processing data. One can recommend this book for understanding at least the problems at hand in recent publications such as part-of-speech tagging, context free grammars, topics extraction or information retrieval.",
     "kind": "Book",
     "domains": ["Natural Language Processing"]
