@@ -4,7 +4,7 @@
     "link": "https://math.univ-cotedazur.fr/~cbouveyr/MBCbook/",
     "authors": ["Charles Bouveyron", "Gilles Celeux", "T. Brendan Murphy", "Adrian E. Raftery"],
     "year": 2021,
-    "image": "bach.png",
+    "image": "mbccd.png",
     "description": "This book is an invitation to truly grasp what model-based machine learning means—not just as a technical term, but as a philosophy of structuring uncertainty. Instead of relying on heuristics or black-box methods, it shows how statistical models can be designed, interpreted, and refined to reveal meaningful structure in data.</br>The treatment of latent variable models and mixture-based approaches is particularly compelling, emphasizing how these frameworks are not just tools but ways to encode prior knowledge and guide discovery. The discussion extends naturally to network data, where clustering is no longer just about grouping similar points but about uncovering hidden interactions and communities. By leveraging probabilistic models, the book illuminates how structure can emerge from noisy relational data, making sense of complex dependencies in a way that purely algorithmic approaches often fail to capture.</br>It is for those who want to move beyond applying clustering algorithms and start thinking in terms of models—how they are built, why they work, and how they can be adapted to capture the richness of real-world data.",
     "kind": "Book",
     "domains": ["Machine Learning"]
