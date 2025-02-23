@@ -30,6 +30,16 @@
     "domains": ["Machine Learning", "Deep Learning"]
   },
   {
+    "title": "scikit-learn",
+    "link": "https://scikit-learn.org/",
+    "authors": ["David Cournapeau", "Fabian Pedregosa", "Gaël Varoquaux", "Alexandre Gramfort", "Vincent Michel", "Bertrand Thirion", "Olivier Grisel", "Lars Buitinck", "Joel Nothman", "Andreas Müller", "Thomas Fan"],
+    "year": 2007,
+    "image": "scikitlearn.png", 
+    "description": "Scikit-learn is a popular open-source machine learning library for Python that provides efficient and user-friendly tools for tasks such as classification, regression, clustering, dimensionality reduction, model selection, and data preprocessing. Built on NumPy, SciPy, and matplotlib, it integrates seamlessly into the broader Python data science ecosystem and offers a consistent API that is easy to learn. Its performance is well-suited for moderate-sized datasets, and a permissive BSD license encourages both academic and commercial use. Maintained by a diverse community of contributors from industry and academia, scikit-learn benefits from extensive documentation, active development, and widespread support, making it a go-to choice for many machine learning practitioners.",
+    "kind": "Code",
+    "domains": ["Machine Learning", "Code"]
+  },
+  {
     "title": "Kaggle Learn",
     "link": "https://www.kaggle.com/learn",
     "authors": ["Alexis Cook", "Kaggle"],
