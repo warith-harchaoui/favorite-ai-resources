@@ -174,7 +174,7 @@
     "link": "https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089",
     "authors": ["Marcos Lopez de Prado"],
     "year": 2018,
-    "image": "marco-lopez-de-prado.png.png",
+    "image": "marco-lopez-de-prado.png",
     "description": "This 400 pages book is a great primer on Machine Learning applied to Finance and it seems it gets the well-deserved status of a classic textbook. I recommend it for its quality about time series even beyond Finance.</br>It is written for pragmatic people who want to thrice understand, apply and experiment from Sharpe ratio to proper cross-validation with the right amount of Computer Science concepts involved. The modelling and backtesting sections of the book will save you a lot of time and sweat when using time series AI.",
     "kind": "Book",
     "domains": ["Signal Processing and Information Theory"]
