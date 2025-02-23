@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Model-Based Clustering and Classification for Data Science",
+    "link": "https://math.univ-cotedazur.fr/~cbouveyr/MBCbook/",
+    "authors": ["Charles Bouveyron", "Gilles Celeux", "T. Brendan Murphy", "Adrian E. Raftery"],
+    "year": 2021,
+    "image": "bach.png",
+    "description": "This book is an invitation to truly grasp what model-based machine learning means—not just as a technical term, but as a philosophy of structuring uncertainty. Instead of relying on heuristics or black-box methods, it shows how statistical models can be designed, interpreted, and refined to reveal meaningful structure in data.</br>The treatment of latent variable models and mixture-based approaches is particularly compelling, emphasizing how these frameworks are not just tools but ways to encode prior knowledge and guide discovery. The discussion extends naturally to network data, where clustering is no longer just about grouping similar points but about uncovering hidden interactions and communities. By leveraging probabilistic models, the book illuminates how structure can emerge from noisy relational data, making sense of complex dependencies in a way that purely algorithmic approaches often fail to capture.</br>It is for those who want to move beyond applying clustering algorithms and start thinking in terms of models—how they are built, why they work, and how they can be adapted to capture the richness of real-world data.",
+    "kind": "Book",
+    "domains": ["Machine Learning"]
+  },    
+  {
+    "title": "Learning Theory from First Principles",
+    "link": "https://francisbach.com/my-book-is-out/",
+    "authors": ["Francis Bach"],
+    "year": 2024,
+    "image": "bach.png",
+    "description": "This book is a rare gem for those who seek to truly understand the principles behind machine learning rather than just applying recipes. It doesn't just list results—it builds them from the ground up, proving key concepts from first principles while maintaining an impressive level of clarity.</br>The balance between classical learning theory and modern insights (from structured prediction to overparameterized models) makes it a must-read for mathematically inclined minds eager to push the boundaries of their understanding. What I particularly appreciate is the emphasis on characterizing what makes an algorithm successful—moving beyond intuition to rigorous guarantees. The structured exposition of estimation, approximation, and optimization errors provides a systematic way to dissect learning methods, helping readers develop their own creative insights.</br>It's not an introductory book, nor should it be. This is for those who want to sharpen their thinking, deepen their knowledge, and contribute meaningfully to the field.",
+    "kind": "Book",
+    "domains": ["Machine Learning"]
+  },
+  {
+    "title": "Deep Learning",
+    "link": "https://www.deeplearningbook.org/",
+    "authors": ["Ian Goodfellow", "Yoshua Bengio", "Aaron Courville"],
+    "year": 2016,
+    "image": "dl.png",
+    "description": "This book is both a nice introduction and an concrete exploration of deep learning techniques, encompassing topics such as neural networks, optimization algorithms, and unsupervised learning. The popularity of the book relies on the fact that you only need basics in Linear Algebra and Differential Calculus as requirements (gently recalled by the way) which is quite pleasant when one is ready to code and go further.",
+    "kind": "Book",
+    "domains": ["Machine Learning", "Deep Learning"]
+  },
+  {
+    "title": "Kaggle Learn",
+    "link": "https://www.kaggle.com/learn",
+    "authors": ["Alexis Cook", "Kaggle"],
+    "year": 2017,
+    "image": "kaggle.png", 
+    "description": "To the best of my knowledge, Kaggle Learn is the best self-taught resource to learn both python and basics in Data Science. It's nice to get back there for recollection.",
+    "kind": "Code",
+    "domains": ["Machine Learning", "Code"]
+  },
+  {
+    "title": "Yannic Kilcher",
+    "link": "https://www.youtube.com/c/yannickilcher",
+    "authors": ["Yannic Kilcher"],
+    "year": 2017,
+    "image": "kilcher.png",
+    "description": "Yannic Kilcher is the one who helps me save the most time staying updated on AI research, allowing me to decide which papers and concepts to explore further. For instance, did you understand attention mechanisms right away? I certainly didn't, but Yannic explained them to me perfectly. He's like the tech-savvy friend who makes it effortless to catch up with the latest AI trends.",
+    "kind": "Video",
+    "domains": ["Machine Learning", "Deep Learning"]
+  },
+  {
+    "title": "Hugo Larochelle",
+    "link": "https://www.youtube.com/@hugolarochelle",
+    "authors": ["Hugo Larochelle"],
+    "year": 2013,
+    "image": "larochelle.png",
+    "description": "Unfortunately, the YouTube channel is not active since 2022 but the videos are superb. Hugo Larochelle provides the best explanations about tough notions like Restricted Boltzmann Machines or Conditional Random Fields that one would spend hours to understand otherwise.",
+    "kind": "Video",
+    "domains": ["Machine Learning"]
+  },
+  {
+    "title": "The Elements of Statistical Learning, 2nd Edition",
+    "link": "https://tinyurl.com/elstatlearning",
+    "authors": ["Trevor Hastie", "Robert Tibshirani", "Jerome Friedman"],
+    "year": 2009,
+    "image": "elstl.png",
+    "description": "Any practioners in AI/ML/DS needs some clean theoretical foundations in their own expertise. We have to admit you can found most of them in this influential book in the field of machine learning and statistical modeling. This is a go-to rigorous reference for supervised and unsupervised learning, neural networks, support vector machines, and more. After working through one of its chapters (in practice even one of them needed for a given prototyping project) any doubt about a subject simply vanishes.",
+    "kind": "Book",
+    "domains": ["Machine Learning"]
+  },
+  {
+    "title": "Pattern Recognition and Machine Learning",
+    "link": "https://tinyurl.com/bishop-prml",
+    "authors": ["Christopher M. Bishop"],
+    "year": 2006,
+    "image": "prml.png",
+    "description": "This 738 pages top-notch textbook offers a complete overview of the fields of Pattern Recognition and Machine Learning. The &ldquo;pattern recognition&rdquo; part of the title reminds me how powerful it is for engineers building things people do not understand yet called engines literally. It might be too subjective to say but I really love that book (except the peculiar cover, otherwise it would be perfection!).</br>The mathematical background is not too heavy, and kindly refreshed to the readers when necessary. Re-reading the various chapters consistently inspires me, thanks to their unique pedagogical approach that weaves back and forth between theory and practice",
+    "kind": "Book",
+    "domains": ["Machine Learning"]
+  },
+  {
+    "title": "Machine Learning: A Probabilistic Perspective",
+    "link": "https://tinyurl.com/murphy-ml",
+    "authors": ["Kevin Murphy"],
+    "year": 2012,
+    "image": "murphy.png",
+    "description": "These three books (of thousand pages each approximately) cover a wide range of topics in detail, including probability, optimization, linear algebra, for machine learning with particular attention for conditional random fields, L1 sparisity regularization, and deep learning. People with mathematical backgrounds will find it a great reference, and it's also a good choice for self-study.</br>The attempt to unify traditional and more recent topics provides a valuable coherence and reflection for developing a culture. These books are not only about fundamentals but also about the state of the art. Ideally, an undergraduate a student considering a doctoral thesis should at least try to read the first volume &ldquo;Machine Learning: A Probabilistic Perspective&rdquo;: if it is not fascinating to the student, maybe he/she should not pursue a Ph.D. in Machine Learning.</br>It is written in an easy-to-understand style, with pseudo-code for the most important algorithms and plenty of examples from real-world fields like biology, text processing, computer vision, and robotics. Instead of just giving you a bunch of random tricks and techniques, the book takes a closer look to graphical models to tackle probabilistic modelling in a clear and concise way.",
+    "kind": "Book",
+    "domains": ["Machine Learning"]
+  },
+  {
+    "title": "Bayesian Reasoning and Machine Learning",
+    "link": "https://tinyurl.com/brml-barber",
+    "authors": ["David Barber"],
+    "year": 2012,
+    "image": "brml.png",
+    "description": "This 735 pages book explains how established tools are used in a wide range of industrial applications spreading rapidly, including search engines, DNA sequencing, stock market analysis, and robot locomotion. Beyond sterile discussions about &ldquo;Bayesians vs. Frequentists&rdquo; (troll discussions equivalent to &ldquo;emacs vs. vim&rdquo; or &ldquo;Linux vs. Windows&rdquo; in Machine Learning), this book is the first I can think of about what &ldquo;Bayesian Modelling&rdquo; or &ldquo;Graphical Models&rdquo; actually mean. This hands-on text opens opportunities to computer science students with some taste for mathematics to go further.</br>This book narrates advancements in the field of machine learning and graphical models. Before reading this book, I did not understand the circles and arrows in articles claiming they were graphical models. Now these drawings are much clearer to me and sometimes I do some myself. I can even say that what makes this book unique is the integration of multiple disciplines through the use of graphical models. In addition, the transition from traditional artificial intelligence to modern machine learning, executed with finesse, adds to the value of the book. It is written with clarity and, as such, should be accessible to a diverse audience, including those with varying levels of mathematical proficiency.",
+    "kind": "Book",
+    "domains": ["Machine Learning"]
+  },
+  {
+    "title": "Computer Vision: Algorithms and Applications, 2nd Edition",
+    "link": "https://tinyurl.com/good-cv",
+    "authors": ["Richard Szeliski"],
+    "year": 2022,
+    "image": "Szeliski2ndBookFrontCover.png",
+    "description": "This 2nd edition of the book (1212 pages) is pleasantly entertaining yet covering almost all important subjects in Computer Vision: Filtering, Recognition, Feature Matching, Image Alignment, Motion Estimation, Computational Photography, Robotic Vision, Depth Estimation (with 2 or even 1 photograph(s) of the same scene), 3D, Rendering...</br>I highly recommend this book for newcomers trying to dive in the field.",
+    "kind": "Book",
+    "domains": ["Computer Vision"]
+  },
+  {
+    "title": "Computer Vision: A Modern Approach, 2nd Edition",
+    "link": "https://tinyurl.com/forsyth-ponce-cv",
+    "authors": ["David Forsyth", "Jean Ponce"],
+    "year": 2011,
+    "image": "cv-2nd.png",
+    "description": "This textbook (800 pages) has been written by two living legends in Computer Vision: David A. Forsyth and Jean Ponce. Here the main objective is to develop a scientific culture and strenghten mathematical reflexes for handling classic Computer Vision problems from image modelling to understanding human activity.</br>The book is particularly comprehensive about building image features, computational geometry, image preprocessing, segmentation and object recognition which gives insight beyond Computer Vision.",
+    "kind": "Book",
+    "domains": ["Computer Vision"]
+  },
+  {
+    "title": "Multiple View Geometry in Computer Vision",
+    "link": "https://tinyurl.com/hartley-zisserman",
+    "authors": ["Richard Hartley", "Andrew Zisserman"],
+    "year": 2004,
+    "image": "hzcover2.png",
+    "description": "The book (670 pages) covers the basic principles of Computer Vision, specifically in regards to understanding the structure of real world scenes and reconstructing them using geometric, algebraic and algorithmic principles. This is not only fundamental for 3D representations but also for understanding 2D perspective in images and videos. Being impregnated with the writing style of Richard Hartley and Andrew Zisserman is also valuable for being a researcher oneself.",
+    "kind": "Book",
+    "domains": ["Computer Vision"]
+  },
+  {
+    "title": "Neural Network Methods in Natural Language Processing",
+    "link": "https://u.cs.biu.ac.il/~yogo/nnlp.pdf",
+    "authors": ["Yoav Goldberg"],
+    "year": 2017,
+    "image": "yoav-goldberg.png",
+    "description": "This long article (76 pages) that we can combine with the associated longer book (309 pages) is a pretty fine first-read of Natural Language Processing that finally works in practice! How numbers can express words and expressions of human beings? How to use the terrific idea of embeddings even beyond NLP. How can we use the Deep Learning artillery to accomplish wonders since the seminal word2vec approaches in the mid-2010s. The readers will appreciate the straightforward and clear explanations of the author.",
+    "kind": "Book",
+    "domains": ["Natural Language Processing"]
+  },
+  {
+    "title": "Foundations of Statistical Natural Language Processing",
+    "link": "https://tinyurl.com/manning-nlp",
+    "authors": ["Chris Manning", "Hinrich Schütze"],
+    "year": 1999,
+    "image": "yoav-goldberg.png",
+    "description": "This 620 pages book is old but it summarizes very well all the good practices of non-deep Natural Language Processing. It is nicely written and a nice source of inspiration for even non-NLP-related problems especially for pre-processing data. One can recommend this book for understanding at least the problems at hand in recent publications such as part-of-speech tagging, context free grammars, topics extraction or information retrieval.",
+    "kind": "Book",
+    "domains": ["Natural Language Processing"]
+  },
+  {
+    "title": "A Wavelet Tour of Signal Processing, 3rd Edition",
+    "link": "https://tinyurl.com/mallat-signal",
+    "authors": ["Stéphane Mallat"],
+    "year": 2008,
+    "image": "mallat.png",
+    "description": "One can recommend this legendary book (edited several times) even if you don't like wavelets. The great value of this book lies in its explanations of the links between algebra and signal processing (bases and projections), the refreshing insights into what a Fourier transform is, time-frequency analysis, sparsity, space scales, compression, inverse problems... all this with a pleasant writing style. The associated website A Wavelet Tour of Signal Processing is just magical! I cannot help myself from citing this awesome website brother Numerical Tours from Gabriel Peyré (who extended the book in this last edition).",
+    "kind": "Book",
+    "domains": ["Signal Processing and Information Theory"]
+  },
+  {
+    "title": "Information Theory, Inference, and Learning Algorithms",
+    "link": "https://tinyurl.com/mackay-information",
+    "authors": ["David MacKay"],
+    "year": 2003,
+    "image": "mackay.png",
+    "description": "This 640-page book is a masterful text that provides a comprehensive exploration of the connections between information theory, Bayesian inference, and machine learning. It is rare to find such a rigorous yet practical book that presents foundational principles while continuing to feel cutting-edge (you would be surprised), even two decades after its publication in 2003.</br>Key features include intuitive examples that clarify complex concepts, interdisciplinary insights bridging theory and application. David MacKay also covers nice topics like error-correcting codes and probabilistic graphical models, ensuring this book remains a timeless classic for students, researchers, and practitioners alike.",
+    "kind": "Book",
+    "domains": ["Signal Processing and Information Theory"]
+  },
+  {
+    "title": "Advances in Financial Machine Learning",
+    "link": "https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089",
+    "authors": ["Marcos Lopez de Prado"],
+    "year": 2018,
+    "image": "marco-lopez-de-prado.png.png",
+    "description": "This 400 pages book is a great primer on Machine Learning applied to Finance and it seems it gets the well-deserved status of a classic textbook. I recommend it for its quality about time series even beyond Finance.</br>It is written for pragmatic people who want to thrice understand, apply and experiment from Sharpe ratio to proper cross-validation with the right amount of Computer Science concepts involved. The modelling and backtesting sections of the book will save you a lot of time and sweat when using time series AI.",
+    "kind": "Book",
+    "domains": ["Signal Processing and Information Theory"]
+  },
+  {
+    "title": "Introduction to Information Retrieval",
+    "link": "https://tinyurl.com/manning-information-retireval",
+    "authors": ["Christopher D. Manning", "Prabhakar Raghavan", "Hinrich Schütze"],
+    "year": 2008,
+    "image": "manning.png",
+    "description": "This comprehensive 496-page textbook is an essential resource for understanding search engine technology, text classification, and web information retrieval (IR): from old ones to new ones.</br>The book adeptly balances theoretical concepts with practical applications while covering a wide array of topics, including Boolean and vector space retrieval models, evaluation metrics, indexing, query expansion, and machine learning approaches in IR. The authors' clear explanations and inclusion of real-world examples facilitate a deeper understanding of the material.</br>One of the book's strengths lies in its treatment of web search, addressing challenges such as crawling, link analysis, and handling large-scale data. This focus is particularly relevant given the ever-growing importance of effective information retrieval in the digital age.</br>Paradoxically, despite huge advancements in NLP and semantic search, the book remains highly relevant because of its wealth of foundational research. Many modern breakthroughs, such as semantic vectorization for text, images, and videos, have been developed to catch up with and leverage the concepts and techniques outlined here, demonstrating how the field has continually built upon this rich literature.",
+    "kind": "Book",
+    "domains": ["Signal Processing and Information Theory"]
+  },
+  {
+    "title": "Reinforcement Learning, 2nd Edition",
+    "link": "https://tinyurl.com/sutton-barto-rl",
+    "authors": ["Richard S. Sutton", "Andrew G. Barto"],
+    "year": 2018,
+    "image": "sutton-barto.png",
+    "description": "As the name suggests, this 557 pages book provides an in-depth introduction of Reinforcement Learning (RL) from two authority figures of this community: R. Sutton and A. Barto. This book is a must-read to understand RL, and it does not assume prerequisite knowledge (for an undergraduate). It is perfect for a person who wants to know more about RL updated in this second edtion with the deep learning approaches.</br>In the new chapters for this edition, the readers can appreciate the relationships between RL and Optimal Control, as well as a chapter focused on famous prowess such as AlphaGo, AlphaGo Zero, Atari game playing and IBM Watson.",
+    "kind": "Book",
+    "domains": ["Reinforcement Learning"]
+  },
+  {
+    "title": "Introduction to Algorithms",
+    "link": "https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/",
+    "authors": ["Thomas H. Cormen", "Charles E. Leiserson", "Ronald L. Rivest", "Clifford Stein"],
+    "year": 2022,
+    "image": "cormen.png",
+    "description": "This 1312-page book is legendary. Don't be fooled by the word introduction: I would consider anyone very competent if they master this book. It is considered a must-read for many members of the AI community and even the wider computer community.</br>What makes it so special is that the chapters are both comprehensive and precise, with a particular effort to be simple but not simplistic. In practice, I have saved a lot of time in my work thanks to chapters on multiprocessing calculations and on how to use divide and conquer algorithms, dynamic programming and greedy algorithms to solve general problems beyond the preferred and fashionable programming language you like.",
+    "kind": "Book",
+    "domains": ["Algorithms and Optimization"]
+  },
+  {
+    "title": "Convex Optimization",
+    "link": "https://tinyurl.com/cvxboyd",
+    "authors": ["Stephen Boyd", "Lieven Vandenberghe"],
+    "year": 2004,
+    "image": "boyd.png",
+    "description": "The &ldquo;Boyd&rdquo; is a gentle, yet rigorous &ldquo;first book&rdquo; of 727 pages for newcomers in Numerical Optimization. Every time, we hear training or learning from data, it is basically optimization even beyond AI. Convex optimization problems are special cases with exact solutions that can be used to tackle non-convex problems through successive approximations which makes it crucial in Machine Learning (and Deep Learning).</br>The exercises are so good that sometimes I suspect scientists writing articles to be inspired by the exercices in this book and simply extend them into valuable publications. I also appreciate this book for developping intuitions and interpretations of the concepts and methods. I cannot write about this book without mentioning its well-known solver toolbox CVXPY which is really helpful for scientists and practioners.",
+    "kind": "Book",
+    "domains": ["Algorithms and Optimization"]
+  },
+  {
+    "title": "Numerical Optimization, 2nd Edition",
+    "link": "https://tinyurl.com/bonnans-numerical-optimization",
+    "authors": ["J. Frédéric Bonnans", "J. Charles Gilbert", "Claude Lemaréchal", "Claudia A. Sagastizábal"],
+    "year": 2006,
+    "image": "bonnans.png",
+    "description": "Numerical Optimization is ubiquitous in science and engineering as nicely explained in the introduction. It is a key component of many algorithms in machine learning, signal processing, image processing, computer vision, robotics, and many other fields.</br>This 508 pages book presents the main concepts and algorithms in a unified and accessible manner, with a focus on the practical aspects of their implementation. The authors are famous in this field and have been teaching this course for many years with also experience in energy management, geoscience, life sciences on optimization problems.</br>When in doubt while imagining new AI/ML algorithms, this is the book I would read first for confirmation and inspiration. When people don't find their answers in the &ldquo;Boyd&rdquo;, I recommend that one. The book is intended for graduate students and researchers but I have no problem admitting I consult it on a regular basis.",
+    "kind": "Book",
+    "domains": ["Algorithms and Optimization"]
+  },
+  {
+    "title": "Numerical Recipes, 3rd Edition",
+    "link": "https://harchaoui.org/warith/favorite-ai-books/",
+    "authors": ["William H. Press", "Saul A. Teukolsky", "William T. Vetterling", "Brian P. Flannery"],
+    "year": 2007,
+    "image": "num-recipes.png",
+    "description": "&ldquo;Numerical Recipes&rdquo; is a famous and comprehensive 1256-page book on scientific computing techniques. It covers a wide range of topics, including linear algebra, the computer science involved, and various numerical methods and algorithms.</br>This is typically the kind of book that could help you design heavy computational algorithms in C/C++ or Fortran called from high-level languages like Python. It is quite rare to find such an easy and precise book to read, co-authored by world experts from academia and industry. I have been using this book for many years and still find it insightful. It is a must-have book for any serious scientist or engineer who wants to deliver reliable software on a large scale.",
+    "kind": "Book",
+    "domains": ["Algorithms and Optimization"]
+  },
+  {
+    "title": "Computational Optimal Transport",
+    "link": "https://tinyurl.com/peyre-cuturi-ot/",
+    "authors": ["Gabriel Peyré", "Marco Cuturi"],
+    "year": 2020,
+    "image": "monge.png",
+    "description": "This 209-page book reviews the topic of Optimal Transport with a focus on numerical methods and their applications at various scales: small, medium, and large. A standout feature of this book is the accompanying website, which boasts impressive teaching materials, a wealth of literature, and high-quality toolboxes like the Python Optimal Transport (POT) toolbox (developed by Rémi Flamary and Nicolas Courty).</br>Starting with a history of Optimal Transport (invented by Gaspard Monge in 1781), the book guides readers through a comprehensive survey of the field, especially for the concept of entropic regularization and how it has enabled the use of Optimal Transport at large-scale settings in fields like Imaging Sciences (such as Color or Texture Processing), Computer Vision, Image Graphics (for shape manipulation), and Machine Learning (for tasks like Regression, Clustering, Classification, Density Fitting, and even Content Generation by imitation). To the best of my knowledge, this is the only book to cover the topic of Optimal Transport with such a precise computational angle.",
+    "kind": "Book",
+    "domains": ["Algorithms and Optimization"]
+  }
+]
