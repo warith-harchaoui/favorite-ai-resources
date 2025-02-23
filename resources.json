@@ -54,7 +54,7 @@
     "link": "https://www.youtube.com/@hugolarochelle",
     "authors": ["Hugo Larochelle"],
     "year": 2013,
-    "image": "larochelle.png",
+    "image": "hugo-larochelle.png",
     "description": "Unfortunately, the YouTube channel is not active since 2022 but the videos are superb. Hugo Larochelle provides the best explanations about tough notions like Restricted Boltzmann Machines or Conditional Random Fields that one would spend hours to understand otherwise.",
     "kind": "Video",
     "domains": ["Machine Learning"]
